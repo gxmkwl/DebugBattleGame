@@ -19,7 +19,7 @@ span{
   font-size: 20px;
 }
 #codeArea {
-  font-size: 18px;
+  font-size: 16px;
 }
 pre { 
   background: #111; 
@@ -66,4 +66,5 @@ button:hover {
 .game-over, .game-clear {
   font-size: 20px;
   margin-top: 1rem;
+
 }
