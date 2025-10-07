@@ -55,10 +55,6 @@ button {
   border: 1px solid #0f0;
   cursor: pointer;
 }
-button:hover {
-    background-color: #0f0;
-    color: rgb(0, 0, 0);
-}
 #rules ul li {
   text-align: left;
   line-height: 1.35;
@@ -68,3 +64,4 @@ button:hover {
   margin-top: 1rem;
 
 }
+
