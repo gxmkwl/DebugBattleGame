@@ -178,7 +178,7 @@ pre {
   -webkit-tap-highlight-color: transparent;
 }
 
-.choice-btn:hover, .choice-btn:active {
+.choice-btn:active {
   background: #0a0;
   color: #000;
 }
@@ -223,7 +223,7 @@ button {
   -webkit-tap-highlight-color: transparent;
 }
 
-button:hover, button:active {
+button:active {
   background-color: #0f0;
   color: #000;
 }
